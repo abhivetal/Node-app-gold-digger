@@ -1,0 +1,12 @@
+{
+  "name": "gold-digger",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is a gold buying app implemented with node js for learning purpose.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Abhishek Vetal",
+  "license": "ISC"
+}
